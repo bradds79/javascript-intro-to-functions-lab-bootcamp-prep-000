@@ -19,20 +19,20 @@ function logWhisper(string) {
 //  return "I can't hear you!"
 //}
 //
-function sayHiToGrandma(string) {
-   console.log('string.toUpperCase()')
-   return "YES INDEED!"
-}
+//function sayHiToGrandma(string) {
+//   console.log('string.toUpperCase()')
+//   return "YES INDEED!"
+//}
 //  
-if (function sayHiToGrandma(string)) {
-    console.log('string.toLowerCase()') {
+if (console.log('string.toLowerCase()')) {
+    function sayHiToGrandma(string) {
     return "I can't hear you!"
     }
   }
 
-if (5 > 2) {
-  console.log("5 is greater than 2")
-}
+//if (5 > 2) {
+//  console.log("5 is greater than 2")
+//}
 //if (num === 0) {
 //  myFunc = function(theObject) {
 //    theObject.make = 'Toyota';
