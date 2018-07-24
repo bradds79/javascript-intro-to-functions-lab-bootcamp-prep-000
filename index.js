@@ -22,7 +22,9 @@ var convo = {hello: 'hello', Hi: 'HELLO'};
 var h1, H2;
 
 sayHiToGrandma(convo);
-y = mycar.make;
+h1 = convo.hello;
+H2 = convo.Hi;
+
 function sayHiToGrandma(string) {
     console.log('string.toUpperCase()')
     return "YES INDEED!"
