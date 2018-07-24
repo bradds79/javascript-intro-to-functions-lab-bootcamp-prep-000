@@ -25,9 +25,9 @@ function sayHiToGrandma(string) {
 }
   
 function sayHiToGrandma(string) {
-  if console.log(string.toLowerCase()) {
-    console.log('string = "I love you, Grandma."')
-    return "I love you, too."
+  if (console.log(string.toLowerCase())) {
+        return "I can't hear you!"
+  }
 }
 if (num === 0) {
   myFunc = function(theObject) {
