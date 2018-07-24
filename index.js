@@ -19,10 +19,10 @@ function logWhisper(string) {
 //  return "I can't hear you!"
 //}
 //
-//function sayHiToGrandma(string) {
-//   console.log('string.toUpperCase()')
-//    return "YES INDEED!"
-//}
+function sayHiToGrandma(string) {
+   console.log('string.toUpperCase()')
+   return "YES INDEED!"
+}
 //  
 function sayHiToGrandma(string) {
   if (console.log('string.toLowerCase()')) {
