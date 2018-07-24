@@ -20,12 +20,12 @@ function logWhisper(string) {
 //}
 //
 //function sayHiToGrandma(string) {
-//    console.log('string.toUpperCase()')
+//   console.log('string.toUpperCase()')
 //    return "YES INDEED!"
 //}
 //  
 function sayHiToGrandma(string) {
-  if (console.log(string.toLowerCase())) {
+  if (console.log('string.toLowerCase()')) {
         return "I can't hear you!"
   }
 }
