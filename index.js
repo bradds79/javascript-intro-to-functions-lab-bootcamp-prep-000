@@ -29,7 +29,10 @@ if (function sayHiToGrandma(string)) {
     return "I can't hear you!"
     }
   }
-  
+
+if (5 > 2) {
+  console.log("5 is greater than 2")
+}
 //if (num === 0) {
 //  myFunc = function(theObject) {
 //    theObject.make = 'Toyota';
