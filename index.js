@@ -24,8 +24,9 @@ function logWhisper(string) {
 //   return "YES INDEED!"
 //}
 //  
-if (console.log('string.toLowerCase()')) {
-    function sayHiToGrandma(string) {
+
+function sayHiToGrandma(string) {
+  if (console.log('string.toLowerCase()')) {
     return "I can't hear you!"
     }
   }
