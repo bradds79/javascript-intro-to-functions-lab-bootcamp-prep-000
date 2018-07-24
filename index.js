@@ -14,22 +14,16 @@ function logWhisper(string) {
   console.log (string.toLowerCase())
 }
 
-//function sayHiToGrandma(string) {
-//  console.log(string.toLowerCase())
-//  return "I can't hear you!"
-//}
-//
-//function sayHiToGrandma(string) {
-//   console.log('string.toUpperCase()')
-//   return "YES INDEED!"
-//}
-//  
-
 function sayHiToGrandma(string) {
-  if (console.log('string.toLowerCase()')) {
-    return "I can't hear you!"
-    }
-  }
+  console.log(string.toLowerCase())
+  return "I can't hear you!"
+}
+
+//function sayHiToGrandma(string) {
+//  if (console.log('string.toLowerCase()')) {
+//    return "I can't hear you!"
+//    }
+//  }
 
 //if (5 > 2) {
 //  console.log("5 is greater than 2")
